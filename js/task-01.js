@@ -10,15 +10,17 @@ for (let i = 0; i < itemRef.length; i += 1) {
   console.log(`Category: ${categoryNameRef.textContent}`);
   console.log(`Elements: ${categoryItemRef.children.length}`);
 }
-// ==============================================
+// ======================
 
+
+// ==============================================
 // В HTML есть список категорий ul#categories.
 
 // <ul id="categories">
 //   <li class="item">
 //     <h2>Animals</h2>
 //     <ul>
-//       <li>Cat</li>
+//       <li>Cat</li>asgfgfa
 //       <li>Hamster</li>
 //       <li>Horse</li>
 //       <li>Parrot</li>
